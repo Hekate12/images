@@ -1,3 +1,4 @@
-![instagram](https://user-images.githubusercontent.com/119257110/204159211-dfa998a2-fdde-4483-91d0-7ae2cf617651.png)
-![facebook](https://user-images.githubusercontent.com/119257110/204159214-3eb8d713-269c-43d4-8f6b-915532552575.png)
-![blog](https://user-images.githubusercontent.com/119257110/204159218-1017e309-f594-4c4e-89e6-6954b5c9df71.png)
+![icons8-facebook](https://user-images.githubusercontent.com/119257110/204159589-63948c37-d876-4d82-9ed9-64fb2a098dda.svg)
+
+![blog-svgrepo-com](https://user-images.githubusercontent.com/119257110/204159726-cdb79c01-b50f-48b5-bb9c-90a44951c0d8.svg)
+
